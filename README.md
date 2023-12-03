@@ -1,4 +1,4 @@
-# my_printf - Recreating the printf Command 🖨️
+# my_printf 🖨️
 
 Welcome to **my_printf**.
 
